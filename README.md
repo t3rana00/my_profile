@@ -1,4 +1,4 @@
-<img src="./banner2.png" alt="Banner" width="100%" />
+<img src="./banner2.png" alt="Banner" style="max-height: 250px; width: 100%; object-fit: cover;" />
 <!-- Profile Banner -->
 <img src="https://via.placeholder.com/1200x250.png?text=Welcome+to+My+Profile" alt="Profile Banner" />
 
