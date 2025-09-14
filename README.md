@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="Banner" width="100%" />
+<img src="./banner2.png" alt="Banner" width="100%" />
 <!-- Profile Banner -->
 <img src="https://via.placeholder.com/1200x250.png?text=Welcome+to+My+Profile" alt="Profile Banner" />
 
@@ -74,6 +74,6 @@
 ---
 
 ### 📫 How to Reach Me
-- ✉️ **Email:** [youremail@example.com](mailto:youremail@example.com)  
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin)  
+- ✉️ **Email:** [youremail@example.com](mailto:nsdrath95@gmail.com)  
+- 💼 **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/nadeesha-rathnayake-30b82223a/))  
 - 🖥️ **GitHub:** [t3rana00](https://github.com/t3rana00)
